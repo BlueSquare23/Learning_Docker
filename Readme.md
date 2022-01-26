@@ -15,16 +15,12 @@ host operating system.
 The inert form of a docker container is called a docker image. A container is
 just an actively running instance of an image. There are docker images out
 there for everything from [`Redis`](https://redis.io/) to
-[`Xeyes`](https://linux.die.net/man/1/xeyes)`. Docker images can be downloaded
+[`Xeyes`](https://linux.die.net/man/1/xeyes). Docker images can be downloaded
 through an [official
 repository](https://docs.docker.com/docker-hub/official_images/).
 
 You can also create / modify docker images yourself to containerize your own
 custom software.
-
-## Installing Docker On Pair Servers
-
-TBD
 
 ## Docker Tools
 
